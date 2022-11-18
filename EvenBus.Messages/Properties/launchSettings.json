@@ -1,0 +1,12 @@
+{
+  "profiles": {
+    "EvenBus.Messages": {
+      "commandName": "Project",
+      "launchBrowser": true,
+      "environmentVariables": {
+        "ASPNETCORE_ENVIRONMENT": "Development"
+      },
+      "applicationUrl": "https://localhost:61348;http://localhost:61350"
+    }
+  }
+}
